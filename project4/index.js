@@ -51,7 +51,7 @@ function draw() {
   } else {
     if (isDebug) {
       for (let i = 0; i < dots.length; i++) {
-      dots[i].drawPartical()
+      dots[i].drawParticle()
       }
     }
     
